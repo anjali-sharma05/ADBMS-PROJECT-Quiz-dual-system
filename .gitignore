@@ -1,0 +1,16 @@
+# Environment variables & secrets
+.env
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Local scratch / logs
+*.log
+tempCodeRunnerFile.*
+
+# IDE settings
+.vscode/
+.idea/
